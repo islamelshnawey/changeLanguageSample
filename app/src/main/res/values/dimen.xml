@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="indeterminate_progress_size">32dp</dimen>
+    <dimen name="outer_spacing">16dp</dimen>
+    <dimen name="big_spacing">32dp</dimen>
+</resources>
